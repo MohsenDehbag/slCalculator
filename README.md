@@ -1,5 +1,5 @@
 # slCalculator
-A Normal Calculator Written with Ruby
+A  Calculator with the options to calculate Crypto Price  Written with Ruby.
 
 +Main Task Commands.
 1-Enter [HELPER] For Help and Learn about How the program works.
